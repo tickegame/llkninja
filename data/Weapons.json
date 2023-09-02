@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"【剑】轻巧易操作的短剑。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":97,"name":"短剑","note":"","params":[0,0,8,0,0,0,0,0],"price":300,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":78,"name":"风刃","note":"","params":[0,0,100,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":104,"name":"手里剑","note":"","params":[0,0,100,0,0,0,0,0],"price":0,"wtypeId":14},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":105,"name":"影爪","note":"","params":[0,0,100,0,0,0,0,0],"price":0,"wtypeId":10},
+{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
