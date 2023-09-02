@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"XinZen/RenWu/zhujue","classId":2,"equips":[2,0,0,0],"faceIndex":0,"faceName":"JueSe","traits":[],"initialLevel":1,"maxLevel":99,"name":"芙","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"XinZen/RenWu/zhujue","classId":3,"equips":[3,0,78,0,0],"faceIndex":4,"faceName":"JueSe","traits":[],"initialLevel":1,"maxLevel":99,"name":"小南","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":5,"characterName":"XinZen/RenWu/zhujue","classId":4,"equips":[4,0,82,0,0],"faceIndex":1,"faceName":"JueSe","traits":[],"initialLevel":1,"maxLevel":99,"name":"由木人","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"XinZen/RenWu/HuLi","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"恶火欲狐","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[1,0,0,1],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"普丽西拉","nickname":"","note":"","profile":""}
+]
